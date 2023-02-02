@@ -3,13 +3,13 @@
 
 O objetivo deste projeto é a manipular e visualizar os dados inseridos em um banco de dados SQL com MySQL. O projeto foi dividido nas seguintes etapas:
 
-✒️Criação e utilização da tabela utilizando o MySQL WorkBench. Os arquivos .CSV foram disponibilizados pela Resilia;
+✒️ Criação e utilização da tabela utilizando o MySQL WorkBench. Os arquivos .CSV foram disponibilizados pela Resilia;
 
-✒️Brainstorming, onde perguntas foram elaboradas para a execução de queries nos dados das tabelas;
+✒️ Brainstorming, onde perguntas foram elaboradas para a execução de queries nos dados das tabelas;
 
-✒️Organização e utilização de ferramentas como MySQL, Github, Xampp e Canvas para organização e construção do projeto.
+✒️ Organização e utilização de ferramentas como MySQL, Github, Xampp e Canvas para organização e construção do projeto.
 
-📺 Apresentação e dashboard com dados do Game of Thrones 👇
+📺 Apresentação e dashboard com dados de Game of Thrones 👇
 
 ![image](https://user-images.githubusercontent.com/114073150/216352070-1493867e-fa8f-4c6c-a35d-6a1c3e05ee5e.png)
 
